@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+![image](https://user-images.githubusercontent.com/59530782/71889037-9c1cf480-3141-11ea-8963-5bf48a52bdc2.png)
+## Ukrainian currently residing in Brussels.
+## _And a bit more_:
+* Travel addict :earth_americas:
+* Chocolate and coffee lover :coffee:
+* Programming enthusiast :computer:
+* Dancer, sketcher, reader :dancer:
+* :surfer: :ski: :sunrise_over_mountains: :art: :boot: :runner: :performing_arts:
+## Education:
+| Degree       | Place         |  Year |
+| :-------------:|:-------------:|-----|
+|MBA major Business Information Management|KU Leuven, Brussels|2013-2015|
+|Master of International Business Economics and Management|HUB, Brussels, Belgium|2011-2013|
+|Bachelor of Philology (English and French languages)|V.N. Karazin Kharkov National University, Kharkov, Ukraine|2006-2010|
 
-You can use the [editor on GitHub](https://github.com/ShtankoDaria/Shtanka/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Experience:
+| Position      | Place         |  Year |
+| :-------------:|:-------------:|-----|
+|QA Engineer|Moody's Analytics, Brussels|2016-2019|
+|Data Analyst Intern|Kdan, Taiwan|2015-2016|
+|Cloud Sales Representative Intern|IBM, Belgium-Luxembourg|2014|
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For those who need more :information_source: :fast_forward: here is my [GitHub account](https://github.com/ShtankoDaria) :blush:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShtankoDaria/Shtanka/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
