@@ -7,6 +7,7 @@
 ## _And a bit more_:
 -  Travel addict :earth_americas:
 -  Chocolate and coffee lover :coffee:
+-  Bug hunter 🔎
 -  Programming enthusiast :computer:
 -  Dancer, sketcher, reader :dancer:
 -  :surfer: :ski: :sunrise_over_mountains: :art: :boot: :runner: :performing_arts:
@@ -20,6 +21,8 @@
 ## Experience: 
 | Position      | Place         |  Year |  
 | :------------: |:-------------: |:-----: |  
+| Senior QA Engineer               | Aaqua Tech                  | 2021 -2022|
+| Senior Test Automation Engineer  | Telenet                     | 2020- 2021|
 | QA Engineer                      | Moody's Analytics, Brussels | 2016-2019 |  
 | Data Analyst Intern              | Kdan, Taiwan                | 2015-2016 |  
 | Cloud Sales Representative Intern| IBM, Belgium-Luxembourg     | 2014     |  
